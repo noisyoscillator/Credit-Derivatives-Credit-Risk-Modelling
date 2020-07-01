@@ -7,3 +7,10 @@ Literature and related resources on Credit Derivatives and Credit Risk Modelling
 
 [Numerical analysis of an extended structural default model with mutual liabilities and jump risk](https://arxiv.org/abs/1701.00030)
 
+[Statistical Learning with Conditional Value at Risk]{https://arxiv.org/abs/2002.05826}
+
+[Adaptive Sampling for Stochastic Risk-Averse Learning](https://arxiv.org/abs/1910.12511)
+
+[Portfolio Optimisation Using Value at Risk]{https://www.imperial.ac.uk/pls/portallive/docs/1/18619714.PDF}
+
+[
