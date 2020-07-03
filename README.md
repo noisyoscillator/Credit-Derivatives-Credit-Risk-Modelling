@@ -13,4 +13,6 @@ Literature and related resources on Credit Derivatives and Credit Risk Modelling
 
 [Portfolio Optimisation Using Value at Risk]{https://www.imperial.ac.uk/pls/portallive/docs/1/18619714.PDF}
 
-[
+[A Computational Method for Stochastic Impulse Control Problems]
+
+
