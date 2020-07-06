@@ -15,4 +15,6 @@ Literature and related resources on Credit Derivatives and Credit Risk Modelling
 
 [A Computational Method for Stochastic Impulse Control Problems]
 
+[RUIN PROBABILITY WITH CLAIMS MODELED BY A STATIONARY ERGODIC STABLE PROCESS] 
+
 
